@@ -1,3 +1,4 @@
-its my first day to use this visual studio code
+Its my first day to use this visual studio code
 date : 18\08\26
-day : tuesday
+day : Tuesday
+and it think i did learn something
